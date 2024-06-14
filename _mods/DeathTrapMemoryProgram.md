@@ -3,7 +3,7 @@ layout: main
 
 authors: "Lengyu" # Authors of the mod
 title: Death Trap Memory Program # Title of the mod
-version: "1.1" # Version of the mod
+version: "1.2" # Version of the mod
 supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Adds a keybind that allows Death Trap to memorize your shield." # A short description of the mod itself.
