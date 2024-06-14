@@ -1,7 +1,7 @@
 ---
 layout: main
 
-authors: "lengyu" # Authors of the mod
+authors: "Lengyu" # Authors of the mod
 title: Lengyu TP Device # Title of the mod
 version: "1.1" # Version of the mod
 supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"

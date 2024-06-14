@@ -2,20 +2,20 @@
 layout: main
 
 authors: "Lengyu" # Authors of the mod
-title: Weapon Quick Switcher # Title of the mod
-version: "1.1" # Version of the mod
+title: Shop Reseter # Title of the mod
+version: "1.0" # Version of the mod
 supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
-tagline: "Press Q to quickly switch to the last used weapon." # A short description of the mod itself.
-description: "Press Q to quickly switch to the last used weapon." # This is set in order to keep the SEO proper
-longDescription: "Adds a keybind option to the game that allows you to switch to the last used weapon quickly. By default the key is binded to Q." # Description of what the mod can do
+tagline: "Adds a keybind that allows you to reset shop." # A short description of the mod itself.
+description: "Adds a keybind that allows you to reset shop." # This is set in order to keep the SEO proper
+longDescription: "Adds a keybind option to the game that allows you to reset any shop you last used immediately. By default the key is binded to F9." # Description of what the mod can do
 categories: ['Utility'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod
 requirementTitles: [] # The link-friendly name of the requirements
 
 issues: ""
-download: "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/WeaponQuickSwitcher/WeaponQuickSwitcher.zip"
+download: "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ShopReseter/ShopReseter.zip"
 source: "https://github.com/aa3615058/Lengyu-BL2-sdk-Mods" # Link to source code
 license: ['MIT', 'https://choosealicense.com/licenses/mit'] # License name, link about the license from https://choosealicense.com/
 

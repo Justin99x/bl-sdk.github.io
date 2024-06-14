@@ -1,7 +1,7 @@
 ---
 layout: main
 
-authors: "lengyu" # Authors of the mod
+authors: "Lengyu" # Authors of the mod
 title: Simple Chinese Fix # Title of the mod
 version: "1.0" # Version of the mod
 supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
