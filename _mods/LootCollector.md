@@ -8,7 +8,7 @@ supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + 
 
 tagline: "Allows you to teleport all loot to you. These loot will form a circle around you and be sorted by rarity level." # A short description of the mod itself.
 description: "Allows you to teleport all loot to you. These loot will form a circle around you and be sorted by rarity level." # This is set in order to keep the SEO proper
-longDescription: "Help you collect loot conveniently. \n1.Press / to teleport all loot to you. These loot will form a circle around you and be sorted by rarity level. \n2.Press - (on keypad) to delete all white and green loot. \n3.Press Delete to delete all loot. (CAUTION)\nMission Items and ECHO will be excluded.\n<img src='https://github.com/aa3615058/Lengyu-BL2-sdk-Mods/blob/master/LootCollector/LootCollector.jpg'>" # Description of what the mod can do
+longDescription: "Help you collect loot conveniently. \n1.Press / to teleport all loot to you. These loot will form a circle around you and be sorted by rarity level. \n2.Press - (on keypad) to delete all white and green loot. \n3.Press Delete to delete all loot. (CAUTION)\nMission Items and ECHO will be excluded.\n<img height='360' src='https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LootCollector/LootCollector.jpg' width='640'>" # Description of what the mod can do
 categories: ['Utility'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod
