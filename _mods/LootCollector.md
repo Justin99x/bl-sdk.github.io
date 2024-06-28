@@ -3,7 +3,7 @@ layout: main
 
 authors: "Lengyu" # Authors of the mod
 title: Loot Collector # Title of the mod
-version: "1.2" # Version of the mod
+version: "1.3" # Version of the mod
 supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Allows you to teleport all loot to you. These loot will form a circle around you and be sorted by rarity level." # A short description of the mod itself.
