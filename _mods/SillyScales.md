@@ -8,7 +8,7 @@ supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + 
 
 tagline: "Player, Enemy and Vehicle Scale Randomizer" # A short description of the mod itself.
 description: "Player, Enemy and Vehicle Scale Randomizer" # This is set in order to keep the SEO proper
-longDescription: "Randomizes Players, Enemies and Vehicles scale when they spawn.\n Players are randomized after dying as well. \nIf you're playing single player I highly recommend using the Alternate player scale.\n.\nWacky NPC Scale is only for fun. The only way to damage them is explosions or melee with that option on.\n.\nThis mod does work co op with a few issues:.\nCars only get rescaled for hosts.\nAlternate player scale will not work correctly.\n" # Description of what the mod can do
+longDescription: "Randomizes Players, Enemies and Vehicles scale when they spawn.\n Players are randomized after dying as well. \nIf you're playing single player I highly recommend using the Alternate player scale.\n\nWacky NPC Scale is only for fun. The only way to damage them is explosions or melee with that option on.\n\nThis mod does work co op with a few issues:.\nCars only get rescaled for hosts.\nAlternate player scale will not work correctly.\n" # Description of what the mod can do
 categories: ['Gameplay'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod
