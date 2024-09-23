@@ -4,7 +4,7 @@ layout: main
 authors: "RedxYeti" # Authors of the mod
 title: Quiet Console # Title of the mod
 version: "1.0" # Version of the mod
-supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
+supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Disables most things printed to console by Gearbox." # A short description of the mod itself.
 description: "Disables most things printed to console by Gearbox." # This is set in order to keep the SEO proper
