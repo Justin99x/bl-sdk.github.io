@@ -3,7 +3,7 @@ layout: main
 
 authors: "RedxYeti" # Authors of the mod
 title: Projectile Randomizer # Title of the mod
-version: "1.0" # Version of the mod
+version: "1.4" # Version of the mod
 supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Randomizes Projectiles on weapons and grenades." # A short description of the mod itself.
