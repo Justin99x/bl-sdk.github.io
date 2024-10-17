@@ -8,7 +8,7 @@ supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "
 
 tagline: "Choose exactly what gets automatically picked up." # A short description of the mod itself.
 description: "Choose exactly what gets automatically picked up." # This is set in order to keep the SEO proper
-longDescription: "This mod will let you choose what gets picked up from health vials to eridium to ammo. It will also pickup items from chests." # Description of what the mod can do
+longDescription: "This mod will let you choose what gets picked up from health vials to eridium to ammo. It will also pickup items from chests.\ncoop, shield boosters" # Description of what the mod can do
 categories: ['Utility', 'Gameplay'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod
