@@ -4,7 +4,7 @@ layout: main
 authors: "Lengyu" # Authors of the mod
 title: Throw Weapon Then Pickup # Title of the mod
 version: "1.0" # Version of the mod
-supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
+supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Adds a keybind that allows you to throw your current weapon and then pick up it immediately." # A short description of the mod itself.
 description: "Adds a keybind that allows you to throw your current weapon and then pick up it immediately." # This is set in order to keep the SEO proper

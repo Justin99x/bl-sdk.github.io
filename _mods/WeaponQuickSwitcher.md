@@ -4,7 +4,7 @@ layout: main
 authors: "Lengyu" # Authors of the mod
 title: Weapon Quick Switcher # Title of the mod
 version: "1.1" # Version of the mod
-supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
+supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Press Q to quickly switch to the last used weapon." # A short description of the mod itself.
 description: "Press Q to quickly switch to the last used weapon." # This is set in order to keep the SEO proper
