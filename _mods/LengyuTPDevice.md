@@ -8,7 +8,7 @@ supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "
 
 tagline: "Allows you to teleport yourself anywhere you marked." # A short description of the mod itself.
 description: "Allows you to teleport yourself anywhere you marked." # This is set in order to keep the SEO proper
-longDescription: "Allows you to teleport yourself anywhere you marked. \n1.Press NUM0 to mark the location. \n2.Press NUMdot to teleport.\n3.Press NUM1-3 to switch within 3 slots.\n\nIt doesn't work in the map Digistruct Peak." # Description of what the mod can do
+longDescription: "Allows you to teleport yourself anywhere you marked. \n1.Press NUMPad0 to mark the location. \n2.Press NUMPadDot to teleport.\n3.Press NUMPad1-3 to switch within 3 slots.\n4.Press NUMPad4-6 to teleport other player to you.\n5.Open the option to print teleport console command when you mark location.\nIn co-op game it only works for the host player.\nIt doesn't work in the map Digistruct Peak." # Description of what the mod can do
 categories: ['Utility'] # Category of the type of mod
 
 requirements: ['UserFeedback >= 1.6'] # Requirements for the given mod
