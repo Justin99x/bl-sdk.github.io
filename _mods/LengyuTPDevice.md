@@ -3,7 +3,7 @@ layout: main
 
 authors: "Lengyu" # Authors of the mod
 title: Lengyu TP Device # Title of the mod
-version: "1.1" # Version of the mod
+version: "1.2" # Version of the mod
 supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Allows you to teleport yourself anywhere you marked." # A short description of the mod itself.
