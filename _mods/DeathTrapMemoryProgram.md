@@ -3,12 +3,12 @@ layout: main
 
 authors: "Lengyu" # Authors of the mod
 title: Death Trap Memory Program # Title of the mod
-version: "1.2" # Version of the mod
+version: "1.4" # Version of the mod
 supported: "BL2" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
-tagline: "Adds a keybind that allows Death Trap to memorize your shield." # A short description of the mod itself.
-description: "Adds a keybind that allows Death Trap to memorize your shield." # This is set in order to keep the SEO proper
-longDescription: "Memory program for Death Trap. You can press the keybind(default: 6) to save the data of your equipped shield. Death Trap will always copy the shield you saved if it is in your backpack.\nThe Memory is persistent.\nTo erase the memory, you could remove your shield and press the keybind again.." # Description of what the mod can do
+tagline: "Allows Death Trap to use a designated shield in Gaige's backpack. It works in multiplayer game." # A short description of the mod itself.
+description: "Allows Death Trap to use a designated shield in Gaige's backpack. It works in multiplayer game." # This is set in order to keep the SEO proper
+longDescription: "Memory program for Death Trap. You can press the keybind(default: 6) to save the data of your equipped shield. Death Trap will always copy the shield you saved if it is in your backpack.\nThe Memory is persistent.\nTo erase the memory, you could remove your shield and press the keybind again.\nIt works in multiplayer game when both the server player and the client player have enabled this mod." # Description of what the mod can do
 categories: ['Utility'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod
