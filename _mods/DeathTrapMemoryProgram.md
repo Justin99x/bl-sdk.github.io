@@ -11,8 +11,8 @@ description: "Allows Death Trap to use a designated shield in Gaige's backpack. 
 longDescription: "Memory program for Death Trap. You can press the keybind(default: 6) to save the data of your equipped shield. Death Trap will always copy the shield you saved if it is in your backpack.\nThe Memory is persistent.\nTo erase the memory, you could remove your shield and press the keybind again.\nIt works in multiplayer game when both the server player and the client player have enabled this mod." # Description of what the mod can do
 categories: ['Utility'] # Category of the type of mod
 
-requirements: [] # Requirements for the given mod
-requirementTitles: [] # The link-friendly name of the requirements
+requirements: ['UserFeedback >= 1.6'] # Requirements for the given mod
+requirementTitles: ['UserFeedback'] # The link-friendly name of the requirements
 
 issues: ""
 download: "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/DeathTrapMemory/DeathTrapMemory.zip"
