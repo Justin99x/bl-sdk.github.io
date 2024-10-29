@@ -8,7 +8,7 @@ supported: "BL2 + TPS + AoDK" # Supported games; currently can only display as "
 
 tagline: "Easily make changes to UE objects - and revert them." # A short description of the mod itself.
 description: "Easily make changes to UE objects - and revert them." # This is set in order to keep the SEO proper
-longDescription: "Simplifies the process of modifying Unreal Engine<br>objects, and tracks changes so that they can be reverted<br>later." # Description of what the mod can do
+longDescription: "Simplifies the process of modifying Unreal Engine\nobjects, and tracks changes so that they can be reverted\nlater." # Description of what the mod can do
 categories: ['Library'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod

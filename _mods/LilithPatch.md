@@ -8,7 +8,7 @@ supported: "BL2 + AoDK" # Supported games; currently can only display as "BL2", 
 
 tagline: "Phasewalk without target in 55tumbl's Lilith mod." # A short description of the mod itself.
 description: "Phasewalk without target in 55tumbl's Lilith mod." # This is set in order to keep the SEO proper
-longDescription: "Modifies the action skill of 55tumbl's excellent Lilith<br>mod to work more like BL1 Lilith's Phasewalk.  You no<br>longer need a target in the crosshairs.<br><br>BTW, this mod is a case study of how NOT to fix a problem..." # Description of what the mod can do
+longDescription: "Modifies the action skill of 55tumbl's excellent Lilith\nmod to work more like BL1 Lilith's Phasewalk.  You no\nlonger need a target in the crosshairs.\n\nBTW, this mod is a case study of how NOT to fix a problem..." # Description of what the mod can do
 categories: ['Gameplay'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod

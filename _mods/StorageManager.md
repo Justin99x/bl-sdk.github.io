@@ -8,7 +8,7 @@ supported: "BL2 + TPS + AoDK" # Supported games; currently can only display as "
 
 tagline: "Yet another bank and backpack expander." # A short description of the mod itself.
 description: "Yet another bank and backpack expander." # This is set in order to keep the SEO proper
-longDescription: "Adds options to set your bank and backpack size, as well<br>as remove checks on backpack size.<br><br>Credit goes to PureEvil139's BankManager, FromDarkHell's<br>BackpackManager, and Our Lord And Savior Gabe<br>Newell/OB4MA's Bank &amp; Backpack Space Customizer." # Description of what the mod can do
+longDescription: "Adds options to set your bank and backpack size, as well\nas remove checks on backpack size.\n\nCredit goes to PureEvil139's BankManager, FromDarkHell's\nBackpackManager, and Our Lord And Savior Gabe\nNewell/OB4MA's Bank &amp; Backpack Space Customizer." # Description of what the mod can do
 categories: ['Gameplay'] # Category of the type of mod
 
 requirements: [] # Requirements for the given mod
