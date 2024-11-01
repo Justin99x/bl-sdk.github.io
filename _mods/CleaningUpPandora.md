@@ -3,7 +3,7 @@ layout: main
 
 authors: "Deceptix_" # Authors of the mod
 title: Cleaning Up Pandora # Title of the mod
-version: "1.0" # Version of the mod
+version: "1.1" # Version of the mod
 supported: "BL2 + TPS" # Supported games; currently can only display as "BL2", "BL2 + TPS", or "TPS"
 
 tagline: "Automatically sell items on the floor or in your backpack by pressing the 'Secondary Use' key." # A short description of the mod itself.
@@ -15,7 +15,7 @@ requirements: [] # Requirements for the given mod
 requirementTitles: [] # The link-friendly name of the requirements
 
 issues: "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/issues"
-download: "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/releases/tag/1.0"
+download: "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/releases/tag/1.1"
 source: "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/tree/main" # Link to source code
 license: [] # License name, link about the license from https://choosealicense.com/
 
